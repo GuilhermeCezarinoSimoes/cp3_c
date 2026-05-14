@@ -27,24 +27,24 @@ Critérios de Avaliação Atendidos
 
 ## Print 1 – Menu Inicial e Registro de uma Compra válida e uma Venda válida
 
-![Print 1](./img/)
+![Print 1](./img/tratamento_exeçoes.png)
 
 ---
 
 ## Print 2 – Teste de Exceção
 
-![Print 2.1](./img/)
+![Print 2.1](./img/RESGISTRO_PERFEITO.png)
 
-![Print 2.2](./img/)
+![Print 2.2](./img/REGISTRO_PERFEITO2.png)
 
 ---
 
 ## Print 3 – Tela de Listagem com formatação correta
 
-![Print 3](./img/)
+![Print 3](./img/LISTAGEM_POLI.png)
 
 ---
 
 ## Print 4 – Cálculo de valor total com precisão nos decimais
 
-![Print 4](./img/)
+![Print 4](./img/VALOR_TOTAL.png)
