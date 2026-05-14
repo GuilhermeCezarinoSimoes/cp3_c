@@ -33,7 +33,7 @@ Critérios de Avaliação Atendidos
 
 ## Print 2 – Teste de Exceção
 
-![Print 2.1](./img/RESGISTRO_PERFEITO.png)
+![Print 2.1](./img/REGISTRO_PERFEITO.png)
 
 ![Print 2.2](./img/REGISTRO_PERFEITO2.png)
 
